@@ -1,0 +1,12 @@
+1. Open Xampp
+2. Start Apache & MySQl
+3. Click Explorer
+4. Find htdocs folder and enter it
+5. Paste the "project" folder
+6. Open Web browser, type localhost/phpmyadmin/
+7. Click on "New"
+8. Create a database named "project" before pressing create button choose "Collation" and press Create
+9. Click on the database then click Import then Choose the project.sql file then press Go
+10.After completing the database installation, go to the browser on new tab
+11. Write localhost/project/
+12. Enjoy your Project.
